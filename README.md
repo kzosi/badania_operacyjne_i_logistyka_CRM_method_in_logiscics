@@ -1,0 +1,2 @@
+# badania_operacyjne_i_logistyka_CRM_method_in_logiscics
+Project for logiscics that computes using CRM method
